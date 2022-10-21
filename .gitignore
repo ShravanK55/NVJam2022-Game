@@ -61,3 +61,5 @@ sysinfo.txt
 crashlytics-build.properties
 UserSettings/Search.settings
 UserSettings/EditorUserSettings.asset
+ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json
+UserSettings/Layouts/default-2021.dwlt
