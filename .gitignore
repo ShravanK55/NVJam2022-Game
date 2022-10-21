@@ -56,4 +56,8 @@ sysinfo.txt
 *.unitypackage
 
 # Crashlytics generated file
+
+# Other files
 crashlytics-build.properties
+UserSettings/Search.settings
+UserSettings/EditorUserSettings.asset
